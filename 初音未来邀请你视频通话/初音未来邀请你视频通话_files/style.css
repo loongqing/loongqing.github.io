@@ -83,7 +83,7 @@ html, body {
 
 .avatar{
     position: absolute;
-    background: url('./images/avatar.png') center center no-repeat;
+    background: url('https://img0.baidu.com/it/u=211694571,3642827083&fm=253&app=138&size=w931&n=0&f=JPEG&fmt=auto?sec=1674320400&t=751712649aede794dc6335e32c5e621f') center center no-repeat;
     background-size: cover;
     width: 2.2rem;
     height: 2.2rem;
